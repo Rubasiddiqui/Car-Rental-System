@@ -11,5 +11,4 @@ Features ✨
 
 Technologies Used 🛠️
 * Java (Core Java, OOP)
-
 * ArrayList (for dynamic storage)
